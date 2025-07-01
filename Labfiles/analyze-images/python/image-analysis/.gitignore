@@ -1,0 +1,7 @@
+labenv/Lib/
+labenv/Include/
+.env
+labenv/Scripts/
+labenv/share/
+*.jpg
+pyvenv.cfg
